@@ -1,7 +1,7 @@
 ## 자바 스터디
 
 ### 진행 중인 스터디
-* 
+* [[북 스터디] 객체지향의 사실과 오해](https://github.com/2023-java-study/book-study)
 
 ### 완료한 스터디
 * [JAVA를 잡아~!](https://github.com/2023-java-study/whiteship-java-study) - **백기선님 자바 스터디 커리큘럼**을 따라 진행한 자바 기초 다지기 스터디
