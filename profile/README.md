@@ -1,7 +1,8 @@
-## 나 JAVA봐라~ [자바 스터디]
+## 나 JAVA봐라~ [자바 & 백엔드 스터디]
 
 ### 진행 중인 스터디
 * [[북 스터디] 이펙티브 자바](https://github.com/2023-java-study/book-study/tree/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C_%EC%9E%90%EB%B0%94) (2023.04 ~)
+* [[북 스터디] Real MySQL 8.0](https://github.com/2023-java-study/book-study/tree/main/Real_MySQL_8_0) (2023.09 ~)
 
 ### 완료한 스터디
 * [JAVA를 잡아~!](https://github.com/2023-java-study/whiteship-java-study) - **백기선님 자바 스터디 커리큘럼**을 따라 진행한 자바 기초 스터디 (2023.01 ~ 2023.02)
